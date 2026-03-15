@@ -1,4 +1,8 @@
 [[stations]]
+id = "LHBP_FMP"
+controlled_by = ["LHBP_FMP"]
+
+[[stations]]
 id = "LHBP_DEL"
 controlled_by = ["LHBP_DEL"]
 parent_id = "LHBP_GND"
